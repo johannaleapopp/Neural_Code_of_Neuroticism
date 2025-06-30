@@ -7,7 +7,7 @@ accessible (Main study). Our primary goal was to determine whether participants�
 Additionally, we sought to determine whether this brain-trait representational similarity is greater during movie scenes that are particularly relevant to neuroticism. To identify such trait-relevant movie scenes, an independent online study with 86 participants was conducted (Pilot study). In case you have questions or trouble with running the scripts, feel free
 to reach out under [johanna.popp@uni-wuerzburg.de].
 
-<br><br>
+<br>
 
 ## 2. Data
 For the Main Study, data from the S1200 sample of the Human Connectome Project funded by the National Institute of Health were used (HCP; Van Essen et al., 2013). Specifically, we used a subsample of participants (N = 184) for which fMRI data during movie watching was available (N = 184). 
@@ -17,7 +17,7 @@ For the Pilot Study, we collected data ourselves: Participants (*N* = 86) were r
 Main Study (HCP): https://www.humanconnectome.org/study/hcp-young-adult/data-releases/
 Pilot Study: **Link will be updated after publication**
 
-<br><br>
+<br>
 
 ## 3. Preprocessing
 **Needs to be updated --> See Paper**
@@ -118,13 +118,13 @@ This script was used to plot a random distribution of IS-RSA values for the figu
 #### 4.4.3. `Parcellation_Yeo_networks`
 This script was used to create the figure in the Supplement that illustrates the seven Yeo networks.
 
-<br><br>
+<br>
 
 ## 5. Software Requirements
 + Python version 3.10.14
 + via JupyterNotebook
 
-<br><br>
+<br>
 
 ## References
 References
@@ -138,7 +138,7 @@ Parkes, L., Fulcher, B., Yücel, M., & Fornito, A. (2018). An evaluation of the 
 
 Van Essen, D. C., Smith, S. M., Barch, D. M., Behrens, T. E. J., Yacoub, E., & Ugurbil, K. (2013). The WU-Minn Human Connectome Project: An Overview. NeuroImage, 80, 62–79. https://doi.org/10.1016/j.neuroimage.2013.05.041
 
-<br><br>
+<br>
 
 ## Copyright 
 Copyright (cc) 2025 by Johanna L. Popp 
