@@ -39,8 +39,12 @@ demographic data and d) compilation of all relevant information into one csv fil
 #### 4.1.5. `Repeated_measures_ANOVA_scene_ratings`
 This script was used to test (post hoc) with one-way repeated measures ANOVAs whether there are significant differences in scene ratings (i.e., mean scene scores) between trait-relevant and trait-irrelevant scenes. The first part assesses ratings from Group 1 (Movies 1 and 2), while the second part assesses ratings from Group 2 (Movies 3 and 4). 
 
+---
+
 ### 4.2. Main Study
 Please note that scripts used to perform the Inter-Subject Representational Similarity Analysis were developed based on a tutorial by Finn & Chang (2021) which can be found here: [Inter-subject Representational Similarity Analysis — Naturalistic Data Analysis](https://naturalistic-data.org/content/Intersubject_RSA.html).
+
+---
 
 #### Main Sample
 
@@ -69,6 +73,8 @@ representational similarity on whole-brain, network- and region-specific level.
 #### 4.2.7. `Perform_t_tests_between_IS_RSA_values_TR_vs_TIR`
 This script was used to test whether brain-trait representational similarity is significantly different between trait-relevant and trait-irrelevant scenes in the main sample.
 
+---
+
 #### Replication Sample
 
 #### 4.2.8. `IS_RSA_analysis_all_scenes_replication`
@@ -86,10 +92,14 @@ network- and region-specific level.
 #### 4.2.11. `Perform_t_tests_between_IS_RSA_values_TR_vs_TIR_replication`
 This script was used to test whether brain-trait representational similarity is significantly different between trait-relevant and trait-irrelevant scenes in the replication sample.
 
+---
+
 ### 4.3. Post Hoc Analysis 
 
 #### 4.3.1. `Comparison_IS_RSA_values_main_vs_replication_sample`
 This script was used to assess the correspondence of region-specific IS-RSA values between 	the main and the replication sample (Scatterplot and Pearson correlation). 
+
+---
 
 ### 4.4. Plots
 
@@ -102,10 +112,13 @@ This script was used to plot a random distribution of IS-RSA values for the figu
 #### 4.4.3. `Parcellation_Yeo_networks`
 This script was used to create the figure in the Supplement that illustrates the seven Yeo networks.
 
+---
+
 ## 5. Software Requirements
 + Python version 3.10.14
 + via JupyterNotebook
 
+---
 
 ## References
 References
@@ -118,6 +131,8 @@ Goldberg, L. R. (1990). An alternative „description of personality“: The big
 Parkes, L., Fulcher, B., Yücel, M., & Fornito, A. (2018). An evaluation of the efficacy, reliability, and sensitivity of motion correction strategies for resting-state functional MRI. NeuroImage, 171, 415–436. https://doi.org/10.1016/j.neuroimage.2017.12.073
 
 Van Essen, D. C., Smith, S. M., Barch, D. M., Behrens, T. E. J., Yacoub, E., & Ugurbil, K. (2013). The WU-Minn Human Connectome Project: An Overview. NeuroImage, 80, 62–79. https://doi.org/10.1016/j.neuroimage.2013.05.041
+
+---
 
 ## Copyright 
 Copyright (cc) 2025 by Johanna L. Popp 
