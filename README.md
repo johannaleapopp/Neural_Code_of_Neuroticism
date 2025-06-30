@@ -66,40 +66,40 @@ similarity on whole-brain, network- and region-specific level.
 This script was used to perform the IS-RSA analysis with data from all trait-irrelevant scenes in the replication sample. It includes a) installation of the relevant software and packages, b) conversion of the fMRI data c) trimming of time courses, d) assessment of brain similarity, e) assessment of trait similarity and f) computation of brain-trait
 representational similarity on whole-brain, network- and region-specific level.
 
-#### 4.2.7. 'Perform_t_tests_between_IS_RSA_values_TR_vs_TIR'
+#### 4.2.7. `Perform_t_tests_between_IS_RSA_values_TR_vs_TIR`
 This script was used to test whether brain-trait representational similarity is significantly different between trait-relevant and trait-irrelevant scenes in the main sample.
 
 #### Replication Sample
 
-#### 4.2.8. 'IS_RSA_analysis_all_scenes_replication'
+#### 4.2.8. `IS_RSA_analysis_all_scenes_replication`
 This script was used to perform the IS-RSA analysis with data from all movie scenes in the replication sample. It includes a) installation of the relevant software and packages, b) trimming of timecourses, c) assessment of brain similarity, d) assessment of trait similarity and e) computation of brain-trait representational similarity on whole-brain, network-
 and region-specific level.
 
-#### 4.2.9. 'IS_RSA_analysis_TR_scenes_replication'
+#### 4.2.9. `IS_RSA_analysis_TR_scenes_replication`
 This script was used to perform the IS-RSA analysis with data from all trait-relevant scenes in the replication sample. It includes a) installation of the relevant software and packages, b) trimming of time courses, c) assessment of brain similarity, d) assessment of trait similarity and e) computation of brain-trait representational similarity on whole-brain,
 network- and region-specific level. 
 
-#### 4.2.10. 'IS_RSA_analysis_TIR_scenes_replication'
+#### 4.2.10. `IS_RSA_analysis_TIR_scenes_replication`
 This script was used to perform the IS-RSA analysis with data from all trait-irrelevant scenes in the replication sample. It includes a) installation of the relevant software and packages, b) trimming of time courses, c) assessment of brain similarity, d) assessment of trait similarity and e) computation of brain-trait representational similarity on whole-brain,
 network- and region-specific level.
 
-#### 4.2.11. 'Perform_t_tests_between_IS_RSA_values_TR_vs_TIR_replication'
+#### 4.2.11. `Perform_t_tests_between_IS_RSA_values_TR_vs_TIR_replication`
 This script was used to test whether brain-trait representational similarity is significantly different between trait-relevant and trait-irrelevant scenes in the replication sample.
 
 ### 4.3. Post Hoc Analysis 
 
-#### 4.3.1. 'Comparison_IS_RSA_values_main_vs_replication_sample'
+#### 4.3.1. `Comparison_IS_RSA_values_main_vs_replication_sample`
 This script was used to assess the correspondence of region-specific IS-RSA values between 	the main and the replication sample (Scatterplot and Pearson correlation). 
 
 ### 4.4. Plots
 
-#### 4.4.1. 'Plots_distribution_neuroticism_scores'
+#### 4.4.1. `Plots_distribution_neuroticism_scores`
 This script was used to plot the distribution of neuroticism scores in the Main Study for the main and the replication sample with an updated x-axis range. It was also used to test these distributions for their normality with a Shapiro-Wilk test. 
 
-#### 4.4.2. 'Random_distribution_IS_RSA_values_paper_figure'
+#### 4.4.2. `Random_distribution_IS_RSA_values_paper_figure`
 This script was used to plot a random distribution of IS-RSA values for the figure in the paper that illustrates the study procedure. 
 
-#### 4.4.3. 'Parcellation_Yeo_networks'
+#### 4.4.3. `Parcellation_Yeo_networks`
 This script was used to create the figure in the Supplement that illustrates the seven Yeo networks.
 
 ## 5. Software Requirements
