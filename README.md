@@ -22,9 +22,11 @@ Pilot Study: **Link will be updated after publication**
 ## 3. Preprocessing
 **Needs to be updated --> See Paper**
 
----
+<br><br>
 
 ## 4. Structure and Description of Scripts
+
+<br>
 
 ### 4.1. Pilot Study
 
@@ -51,6 +53,8 @@ This script was used to test (post hoc) with one-way repeated measures ANOVAs wh
 Please note that scripts used to perform the Inter-Subject Representational Similarity Analysis were developed based on a tutorial by Finn & Chang (2021) which can be found here: [Inter-subject Representational Similarity Analysis — Naturalistic Data Analysis](https://naturalistic-data.org/content/Intersubject_RSA.html).
 
 ---
+
+<br>
 
 #### Main Sample
 
@@ -81,6 +85,8 @@ This script was used to test whether brain-trait representational similarity is 
 
 ---
 
+<br>
+
 #### Replication Sample
 
 #### 4.2.8. `IS_RSA_analysis_all_scenes_replication`
@@ -100,12 +106,16 @@ This script was used to test whether brain-trait representational similarity is 
 
 ---
 
+<br>
+
 ### 4.3. Post Hoc Analysis 
 
 #### 4.3.1. `Comparison_IS_RSA_values_main_vs_replication_sample`
 This script was used to assess the correspondence of region-specific IS-RSA values between 	the main and the replication sample (Scatterplot and Pearson correlation). 
 
 ---
+
+<br>
 
 ### 4.4. Plots
 
@@ -120,11 +130,13 @@ This script was used to create the figure in the Supplement that illustrates the
 
 ---
 
+<br><br>
+
 ## 5. Software Requirements
 + Python version 3.10.14
 + via JupyterNotebook
 
----
+<br><br>
 
 ## References
 References
@@ -138,7 +150,7 @@ Parkes, L., Fulcher, B., Yücel, M., & Fornito, A. (2018). An evaluation of the 
 
 Van Essen, D. C., Smith, S. M., Barch, D. M., Behrens, T. E. J., Yacoub, E., & Ugurbil, K. (2013). The WU-Minn Human Connectome Project: An Overview. NeuroImage, 80, 62–79. https://doi.org/10.1016/j.neuroimage.2013.05.041
 
----
+<br><br>
 
 ## Copyright 
 Copyright (cc) 2025 by Johanna L. Popp 
