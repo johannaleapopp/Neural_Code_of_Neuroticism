@@ -100,16 +100,12 @@ This script was used to test whether brain-trait representational similarity is 
 
 ---
 
-<br>
-
 ### 4.3. Post Hoc Analysis 
 
 #### 4.3.1. `Comparison_IS_RSA_values_main_vs_replication_sample`
 This script was used to assess the correspondence of region-specific IS-RSA values between 	the main and the replication sample (Scatterplot and Pearson correlation). 
 
 ---
-
-<br>
 
 ### 4.4. Plots
 
@@ -121,8 +117,6 @@ This script was used to plot a random distribution of IS-RSA values for the figu
 
 #### 4.4.3. `Parcellation_Yeo_networks`
 This script was used to create the figure in the Supplement that illustrates the seven Yeo networks.
-
----
 
 <br><br>
 
