@@ -16,5 +16,5 @@ Pilot Study: **Link will be updated after publication**
 
 ## 4. Structure and Description of Scripts
 ### 4.1. Pilot Study
-#### 4.1.1. 'Cut_movie_files_HCP'
+#### 4.1.1. ´Cut_movie_files_HCP´
 This script was used to split movie files shown in the HCP (www.humanconnectome.org) into scenes that were rated by the participants in the Pilot Study. 
