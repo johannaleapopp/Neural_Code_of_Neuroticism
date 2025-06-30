@@ -26,8 +26,6 @@ Pilot Study: **Link will be updated after publication**
 
 ## 4. Structure and Description of Scripts
 
-<br>
-
 ### 4.1. Pilot Study
 
 #### 4.1.1. `Cut_movie_files_HCP`
