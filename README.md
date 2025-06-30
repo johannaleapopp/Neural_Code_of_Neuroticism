@@ -52,8 +52,6 @@ This script was used to test (post hoc) with one-way repeated measures ANOVAs wh
 ### 4.2. Main Study
 Please note that scripts used to perform the Inter-Subject Representational Similarity Analysis were developed based on a tutorial by Finn & Chang (2021) which can be found here: [Inter-subject Representational Similarity Analysis — Naturalistic Data Analysis](https://naturalistic-data.org/content/Intersubject_RSA.html).
 
----
-
 <br>
 
 #### Main Sample
