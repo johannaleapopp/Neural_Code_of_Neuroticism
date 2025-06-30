@@ -79,8 +79,6 @@ representational similarity on whole-brain, network- and region-specific level.
 #### 4.2.7. `Perform_t_tests_between_IS_RSA_values_TR_vs_TIR`
 This script was used to test whether brain-trait representational similarity is significantly different between trait-relevant and trait-irrelevant scenes in the main sample.
 
----
-
 <br>
 
 #### Replication Sample
