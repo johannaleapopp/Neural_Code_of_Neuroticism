@@ -36,11 +36,11 @@ This script was used to split movie files shown in the HCP (www.humanconnectome.
 This folder contains the PsychoPy Script and all required files used to implement the Pilot Study, where participants rated movie scenes based on their potential to evoke emotions related to neuroticism. A detailed description of the procedure can be found in the methods section of the paper.
 
 #### 4.1.3. `Define_trait_ir_relevant_scenes_clickworker_run_1`
-This script was used to analyze the data from Group 1 (rated Movie 1 and Movie 2) that was collected through the online study: The first part includes  a) Import of files that were generated as output from Pavlovia.org b) generation of  scene scores from participants' scene ratings c) computation of neuroticism scores from NEO-FFI responses d) extraction of
+This script was used to analyze the data from Group 1 (rated Movies 1 and 2) that was collected through the online study: The first part includes  a) Import of files that were generated as output from Pavlovia.org b) generation of  scene scores from participants' scene ratings c) computation of neuroticism scores from NEO-FFI responses d) extraction of
 demographic data and d) compilation of all relevant information into one csv file. The second part includes a) the analysis of sample characteristics (age, gender, and neuroticism scores) and the identification of trait-relevant and trait-irrelevant scenes, along with the generation of the corresponding plots shown in the Supplementary Material.
 
 #### 4.1.4. `Define_trait_ir_relevant_scenes_clickworker_run_2`
-This script was used to analyze the data from Group 2 (rated Movie 3 and Movie 4) that was collected through the online study: The first part includes  a) Import of files that were generated as output from Pavlovia.org b) generation of  scene scores from participant’s scene ratings c) computation of neuroticism scores from NEO-FFI responses d) extraction of
+This script was used to analyze the data from Group 2 (rated Movies 3 and 4) that was collected through the online study: The first part includes  a) Import of files that were generated as output from Pavlovia.org b) generation of  scene scores from participant’s scene ratings c) computation of neuroticism scores from NEO-FFI responses d) extraction of
 demographic data and d) compilation of all relevant information into one csv file. The second part includes a) the analysis of sample characteristics (age, gender, and neuroticism scores) and the identification of trait-relevant and trait-irrelevant scenes, along with the generation of the corresponding plots shown in the Supplementary Material.
 
 #### 4.1.5. `Repeated_measures_ANOVA_scene_ratings`
