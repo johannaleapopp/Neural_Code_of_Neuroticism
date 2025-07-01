@@ -56,7 +56,7 @@ Please note that scripts used to perform the Inter-Subject Representational Simi
 #### Main Sample
 
 #### 4.2.1. `Preparation_behavioral_data_HCP`
-This script was used to a) read in behavioral data from the HCP, b) exclude subjects with missing data, c) split the sample into a main and a replication sample and d) analyze demographic data and neuroticism scores. Please note that the assessment of normality of neuroticism distributions was computed in the script: Plots_distribution_neuroticism_scores.
+This script was used to a) read in behavioral data from the HCP, b) exclude subjects with missing data, c) split the sample into a main and a replication sample and d) analyze demographic data and neuroticism scores. Please note that the assessment of normality of neuroticism sscore distributions was computed in the script: Plots_distribution_neuroticism_scores.
 
 #### 4.2.2. `Motion_exclusion_HCP`
 This script was used to identify subjects with excessive head motion under the lenient exclusion criteria (mean framewise displacement (mFD) > 0.55mm) suggested by Parkes et al. (2018).
