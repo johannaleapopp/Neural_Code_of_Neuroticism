@@ -59,7 +59,7 @@ Please note that scripts used to perform the Inter-Subject Representational Simi
 This script was used to a) read in behavioral data from the HCP, b) exclude subjects with missing data, c) split the sample into a main and a replication sample and d) analyze demographic data and neuroticism scores. Please note that the assessment of normality of neuroticism sscore distributions was computed in the script: Plots_distribution_neuroticism_scores.
 
 #### 4.2.2. `Motion_exclusion_HCP`
-This script was used to identify subjects with excessive head motion under the lenient exclusion criteria (mean framewise displacement (mFD) > 0.55mm) suggested by Parkes et al. (2018).
+This script was used to identify subjects with excessive head motion under the lenient exclusion criteria (mean framewise displacement (mFD) > 0.55 mm) suggested by Parkes et al. (2018).
 
 #### 4.2.3. `Plotting – Assignment of Nodes to Yeo 7 or Yeo 17 networks[Folder]`
 This script `Match_nodes_to_network`  was used to solve a problem when plotting results in in the IS-RSA Analysis: The data we received from preprocessing are in the order of the Yeo 17 parcellation, but that differs from the Yeo 7 parcellation. However, I need the Yeo 7 parcellation for the node-to-network assignment. Here it was figured out, which node name
