@@ -44,7 +44,7 @@ This script was used to analyze the data from Group 2 (rated Movies 3 and 4) tha
 demographic data and d) compilation of all relevant information into one csv file. The second part includes a) the analysis of sample characteristics (age, gender, and neuroticism scores) and the identification of trait-relevant and trait-irrelevant scenes, along with the generation of the corresponding plots shown in the Supplementary Material.
 
 #### 4.1.5. `Repeated_measures_ANOVA_scene_ratings`
-This script was used to test (post hoc) with one-way repeated measures ANOVAs whether there are significant differences in scene ratings (i.e., mean scene scores) between trait-relevant and trait-irrelevant scenes. The first part assesses ratings from Group 1 (Movies 1 and 2), while the second part assesses ratings from Group 2 (Movies 3 and 4). 
+This script was used to test (post hoc) with one-way repeated measures ANOVAs whether there were significant differences in scene ratings (i.e., mean scene scores) between trait-relevant and trait-irrelevant scenes. The first part assesses ratings from Group 1 (Movies 1 and 2), while the second part assesses ratings from Group 2 (Movies 3 and 4). 
 
 ---
 
