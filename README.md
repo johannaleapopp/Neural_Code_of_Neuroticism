@@ -66,45 +66,45 @@ This script `Match_nodes_to_network`  was used to solve a problem when plotting 
 from the Yeo 7 parcellation (or index) belongs to the Yeo 17 parcellation. The corresponding excel files (output and input) can also be found in this folder. 
 
 #### 4.2.4. `IS_RSA_analysis_all_scenes`
-This script was used to perform the IS-RSA analysis with data from all movie scenes in the main sample. It includes a) installation of the relevant software and packages, b) conversion of the fMRI data c) trimming of time courses, d) assessment of brain similarity, e) assessment of trait similarity and f) computation of brain-trait representational similarity on
+This script was used to perform the IS-RSA with data from all movie scenes in the main sample. It includes a) installation of the relevant software and packages, b) conversion of the fMRI data c) trimming of time courses, d) assessment of brain similarity, e) assessment of trait similarity and f) computation of brain-trait representational similarity on
 whole-brain, network- and region-specific level. 
 
 #### 4.2.5. `IS_RSA_analysis_TR_scenes`
-This script was used to perform the IS-RSA analysis with data from all trait-relevant scenes in the main sample. It includes a) installation of the relevant software and packages, b) conversion of the fMRI data c) trimming of time courses, d) assessment of brain similarity, e) assessment of trait similarity and f) computation of brain-trait representational
+This script was used to perform the IS-RSA with data from all trait-relevant scenes in the main sample. It includes a) installation of the relevant software and packages, b) conversion of the fMRI data c) trimming of time courses, d) assessment of brain similarity, e) assessment of trait similarity and f) computation of brain-trait representational
 similarity on whole-brain, network- and region-specific level.
 
 #### 4.2.6. `IS_RSA_analysis_TIR_scenes`
-This script was used to perform the IS-RSA analysis with data from all trait-irrelevant scenes in the replication sample. It includes a) installation of the relevant software and packages, b) conversion of the fMRI data c) trimming of time courses, d) assessment of brain similarity, e) assessment of trait similarity and f) computation of brain-trait
+This script was used to perform the IS-RSA analysis with data from all trait-irrelevant scenes in the main sample. It includes a) installation of the relevant software and packages, b) conversion of the fMRI data c) trimming of time courses, d) assessment of brain similarity, e) assessment of trait similarity and f) computation of brain-trait
 representational similarity on whole-brain, network- and region-specific level.
 
 #### 4.2.7. `Perform_t_tests_between_IS_RSA_values_TR_vs_TIR`
-This script was used to test whether brain-trait representational similarity is significantly different between trait-relevant and trait-irrelevant scenes in the main sample.
+This script was used to test whether brain-trait representational similarity was significantly different between trait-relevant and trait-irrelevant scenes in the main sample.
 
 <br>
 
 #### Replication Sample
 
 #### 4.2.8. `IS_RSA_analysis_all_scenes_replication`
-This script was used to perform the IS-RSA analysis with data from all movie scenes in the replication sample. It includes a) installation of the relevant software and packages, b) trimming of timecourses, c) assessment of brain similarity, d) assessment of trait similarity and e) computation of brain-trait representational similarity on whole-brain, network-
+This script was used to perform the IS-RSA with data from all movie scenes in the replication sample. It includes a) installation of the relevant software and packages, b) trimming of timecourses, c) assessment of brain similarity, d) assessment of trait similarity and e) computation of brain-trait representational similarity on whole-brain, network-
 and region-specific level.
 
 #### 4.2.9. `IS_RSA_analysis_TR_scenes_replication`
-This script was used to perform the IS-RSA analysis with data from all trait-relevant scenes in the replication sample. It includes a) installation of the relevant software and packages, b) trimming of time courses, c) assessment of brain similarity, d) assessment of trait similarity and e) computation of brain-trait representational similarity on whole-brain,
+This script was used to perform the IS-RSA with data from all trait-relevant scenes in the replication sample. It includes a) installation of the relevant software and packages, b) trimming of time courses, c) assessment of brain similarity, d) assessment of trait similarity and e) computation of brain-trait representational similarity on whole-brain,
 network- and region-specific level. 
 
 #### 4.2.10. `IS_RSA_analysis_TIR_scenes_replication`
-This script was used to perform the IS-RSA analysis with data from all trait-irrelevant scenes in the replication sample. It includes a) installation of the relevant software and packages, b) trimming of time courses, c) assessment of brain similarity, d) assessment of trait similarity and e) computation of brain-trait representational similarity on whole-brain,
+This script was used to perform the IS-RSA with data from all trait-irrelevant scenes in the replication sample. It includes a) installation of the relevant software and packages, b) trimming of time courses, c) assessment of brain similarity, d) assessment of trait similarity and e) computation of brain-trait representational similarity on whole-brain,
 network- and region-specific level.
 
 #### 4.2.11. `Perform_t_tests_between_IS_RSA_values_TR_vs_TIR_replication`
-This script was used to test whether brain-trait representational similarity is significantly different between trait-relevant and trait-irrelevant scenes in the replication sample.
+This script was used to test whether brain-trait representational similarity was significantly different between trait-relevant and trait-irrelevant scenes in the replication sample.
 
 ---
 
 ### 4.3. Post Hoc Analysis 
 
 #### 4.3.1. `Comparison_IS_RSA_values_main_vs_replication_sample`
-This script was used to assess the correspondence of region-specific IS-RSA values between 	the main and the replication sample (Scatterplot and Pearson correlation). 
+This script was used to assess the correspondence of region-specific IS-RSA values between the main and the replication sample (Scatterplot and Pearson correlation). 
 
 ---
 
