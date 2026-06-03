@@ -16,12 +16,12 @@ For the Pilot Study, we collected data ourselves: Participants (*N* = 86) were r
 
 Main Study (HCP): https://www.humanconnectome.org/study/hcp-young-adult/data-releases/
 
-Pilot Study: **Link will be updated after publication**
+Pilot Study: https://osf.io/j6ry5/files
 
 <br>
 
 ## 3. Preprocessing
-**Needs to be updated --> See Paper**
+To estimate brain region-specific activity time courses, the minimally preprocessed high-resolution movie fMRI data were used (Glasser et al., 2013; Van Essen et al., 2013). All fMRI data were acquired with a gradient-echo planar imaging sequence (repetition time [TR] = 1000 ms; echo time [TE] = 22.2 ms; flip angle = 45°; 1.6 mm isotropic voxel resolution; multi-band factor = 5). A comprehensive description of all neuroimaging parameters can be found in the HCP’s online documentation (https://www.humanconnectome.org/study/hcp-young-adult/document/1200-subjects-data-release), and preprocessing steps are detailed in Glasser et al. (2013). In addition to the ICA-FIX denoising implemented in the HCP pipeline, mean white matter and cerebrospinal fluid traces were regressed out of vertex-wise time series data. Afterwards, brain region-specific activity time courses were extracted using the functional Yan 200 parcellation (Yan et al., 2023), an updated version of the Schaefer parcellation (Schaefer et al., 2018). We opted for the parcellation into 200 brain regions (nodes), as parcellations in the 200-300 node range have been shown to provide a good balance between spatial specificity and robustness, avoiding increased registration errors and partial voluming effects associated with smaller brain regions in higher resolution parcellations (Finn &  Chang, 2021). 
 
 <br><br>
 
@@ -128,16 +128,24 @@ This script was used to create the figure in the Supplement that illustrates the
 <br>
 
 ## References
-References
+
 Costa, P. T., & McCrae, R. R. (1992). Normal personality assessment in clinical practice: The NEO Personality Inventory. Psychological Assessment, 4, 5–13. https://doi.org/10.1037/1040-3590.4.1.5
 
 Finn, E. S., Glerean, E., Khojandi, A. Y., Nielson, D., Molfese, P. J., Handwerker, D. A., & Bandettini, P. A. (2020). Idiosynchrony: From shared responses to individual differences during naturalistic neuroimaging. NeuroImage, 215, 116828. https://doi.org/10.1016/j.neuroimage.2020.116828
+
+Finn, E. S. & Chang, L. Inter-subject Representational Similarity Analysis. Naturalistic Data Analysis http://naturalistic-data.org/content/Intersubject_RSA.html (2021).
+
+Glasser, M. F. et al. The minimal preprocessing pipelines for the Human Connectome Project. NeuroImage 80, 105–124 (2013).
 
 Goldberg, L. R. (1990). An alternative „description of personality“: The big-five factor structure. Journal of Personality and Social Psychology, 59(6), 1216–1229. https://doi.org/10.1037//0022-3514.59.6.1216
 
 Parkes, L., Fulcher, B., Yücel, M., & Fornito, A. (2018). An evaluation of the efficacy, reliability, and sensitivity of motion correction strategies for resting-state functional MRI. NeuroImage, 171, 415–436. https://doi.org/10.1016/j.neuroimage.2017.12.073
 
+Schaefer, A. et al. Local-global parcellation of the human cerebral cortex from intrinsic functional connectivity MRI. Cereb Cortex 28, 3095–3114 (2018).
+
 Van Essen, D. C., Smith, S. M., Barch, D. M., Behrens, T. E. J., Yacoub, E., & Ugurbil, K. (2013). The WU-Minn Human Connectome Project: An Overview. NeuroImage, 80, 62–79. https://doi.org/10.1016/j.neuroimage.2013.05.041
+
+Yan, X. et al. Homotopic local-global parcellation of the human cerebral cortex from resting-state functional connectivity. Neuroimage 273, 120010 (2023).
 
 <br>
 
