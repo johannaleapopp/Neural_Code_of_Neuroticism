@@ -119,6 +119,11 @@ This script was used to plot a random distribution of IS-RSA values for the figu
 #### 4.4.3. `Parcellation_Yeo_networks`
 This script was used to create the figure in the Supplement that illustrates the seven Yeo networks.
 
+---
+
+### 4.5. Revision
+This folder contains scripts that were updated according to the Reviewers requests or created to conduct additional analyses.
+
 <br>
 
 ## 5. Software Requirements
